@@ -1,19 +1,41 @@
+@media screen and (max-width:700px){
+    
+}
 nav{
     text-align: center;
+    font-size: 22px;
+    display: inline-block;  
+    float: right;
+    word-spacing: 80px;
+    
+    
+
+}
+nav a{
+    color: white;
+    padding: 0px;
+   text-decoration: none;
+    background-color: teal;
+    border-radius: 4px;
+}
+nav a:hover{
+    color: white;
+}
+
+*{background:teal;
     margin: 0;
     padding: 0;
-}
-*{background-color: teal;
 }
 h1{
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
     color: white;
 }
-div p{
+p{
     color: white;
     border-color: chartreuse;
    border-style: solid;
+   text-align: center;
 }
 img{
     width: 300px;
