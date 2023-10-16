@@ -12,6 +12,10 @@ h1{
 }
 div p{
     color: white;
+    border-color: chartreuse;
+   border-style: solid;
 }
-h1 
+img{
+    width: 300px;
+}
 
